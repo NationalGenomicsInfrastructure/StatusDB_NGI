@@ -1,0 +1,2221 @@
+{
+  "_id": "099b4b4e78b12d819b2e082b2240f255",
+  "_rev": "1-b780ceccadfb40105f51867a8fbcb27d",
+  "flowcell_id": "A12GGASZR5",
+  "metadata": {
+    "num_lanes": 8,
+    "instrument_id": "LM43899",
+    "run_setup": "",
+    "setup_lims_step_id": "",
+    "instrument_type": "NextSeq2000",
+    "first_generated": "2026-03-10T16:00:00.00"
+  },
+  "uploaded_lims_info": [
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "1",
+      "sample_id": "P37902_1001",
+      "sample_name": "P37902_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "",
+      "index_2": "",
+      "description": "A__NoIndex_25_08",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "A__NoIndex_25_08"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "2",
+      "sample_id": "P36906_1001",
+      "sample_name": "P36906_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "GCTACGCT",
+      "index_2": "",
+      "description": "A__StandardDemux_25_01",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "A__StandardDemux_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "2",
+      "sample_id": "P36906_1002",
+      "sample_name": "P36906_1002",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CGAGGCTG",
+      "index_2": "",
+      "description": "A__StandardDemux_25_01",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "A__StandardDemux_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "2",
+      "sample_id": "P36906_1003",
+      "sample_name": "P36906_1003",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "AAGAGGCA",
+      "index_2": "",
+      "description": "A__StandardDemux_25_01",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "A__StandardDemux_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "2",
+      "sample_id": "P37869_1001",
+      "sample_name": "P37869_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TTACCGAC",
+      "index_2": "",
+      "description": "B__NoMismatches_25_02",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "B__NoMismatches_25_02"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "2",
+      "sample_id": "P37869_1002",
+      "sample_name": "P37869_1002",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "AGTGACCT",
+      "index_2": "",
+      "description": "B__NoMismatches_25_02",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "B__NoMismatches_25_02"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "2",
+      "sample_id": "P37869_1003",
+      "sample_name": "P37869_1003",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TCGGATTC",
+      "index_2": "",
+      "description": "B__NoMismatches_25_02",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "B__NoMismatches_25_02"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "2",
+      "sample_id": "P37869_1004",
+      "sample_name": "P37869_1004",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CAAGGTAC",
+      "index_2": "",
+      "description": "B__NoMismatches_25_02",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "B__NoMismatches_25_02"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "2",
+      "sample_id": "P37869_1005",
+      "sample_name": "P37869_1005",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TCCTCATG",
+      "index_2": "",
+      "description": "B__NoMismatches_25_02",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "B__NoMismatches_25_02"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "3",
+      "sample_id": "P36705_101",
+      "sample_name": "P36705_101",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "GCGCGGTTAA",
+      "index_2": "",
+      "description": "C__MixedLengths_25_01",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "C__MixedLengths_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "3",
+      "sample_id": "P36705_102",
+      "sample_name": "P36705_102",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TTCCTTGAGG",
+      "index_2": "",
+      "description": "C__MixedLengths_25_01",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "C__MixedLengths_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "3",
+      "sample_id": "P37004_1001",
+      "sample_name": "P37004_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TCAGCGAA",
+      "index_2": "",
+      "description": "D__MixedLengths_25_01",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "D__MixedLengths_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "3",
+      "sample_id": "P37004_1002",
+      "sample_name": "P37004_1002",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CCATTGTT",
+      "index_2": "",
+      "description": "D__MixedLengths_25_01",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "D__MixedLengths_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "4",
+      "sample_id": "P37234_1001",
+      "sample_name": "P37234_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TTACCGAC",
+      "index_2": "",
+      "description": "E__ShorterThanSetup_25_02",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "E__ShorterThanSetup_25_02"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "4",
+      "sample_id": "P37234_1002",
+      "sample_name": "P37234_1002",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "AGTGACCT",
+      "index_2": "",
+      "description": "E__ShorterThanSetup_25_02",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "E__ShorterThanSetup_25_02"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "4",
+      "sample_id": "P37234_1003",
+      "sample_name": "P37234_1003",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TCGGATTC",
+      "index_2": "",
+      "description": "E__ShorterThanSetup_25_02",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "E__ShorterThanSetup_25_02"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "4",
+      "sample_id": "P37234_1004",
+      "sample_name": "P37234_1004",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CAAGGTAC",
+      "index_2": "",
+      "description": "E__ShorterThanSetup_25_02",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "E__ShorterThanSetup_25_02"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "4",
+      "sample_id": "P37234_1005",
+      "sample_name": "P37234_1005",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TCCTCATG",
+      "index_2": "",
+      "description": "E__ShorterThanSetup_25_02",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "E__ShorterThanSetup_25_02"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "5",
+      "sample_id": "P38454_1001",
+      "sample_name": "P38454_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "GAACTGAGCG",
+      "index_2": "CGCTCCACGA",
+      "description": "F__StandardDemux_25_03",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "F__StandardDemux_25_03"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "5",
+      "sample_id": "P38454_1002",
+      "sample_name": "P38454_1002",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "AGGTCAGATA",
+      "index_2": "TATCTTGTAG",
+      "description": "F__StandardDemux_25_03",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "F__StandardDemux_25_03"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "5",
+      "sample_id": "P38454_1003",
+      "sample_name": "P38454_1003",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CGTCTCATAT",
+      "index_2": "AGCTACTATA",
+      "description": "F__StandardDemux_25_03",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "F__StandardDemux_25_03"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "5",
+      "sample_id": "P38454_1004",
+      "sample_name": "P38454_1004",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "ATTCCATAAG",
+      "index_2": "CCACCAGGCA",
+      "description": "F__StandardDemux_25_03",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "F__StandardDemux_25_03"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "5",
+      "sample_id": "P38454_1005",
+      "sample_name": "P38454_1005",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "GACGAGATTA",
+      "index_2": "AGGATAATGT",
+      "description": "F__StandardDemux_25_03",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "F__StandardDemux_25_03"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "5",
+      "sample_id": "P38454_1006",
+      "sample_name": "P38454_1006",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "AACATCGCGC",
+      "index_2": "ACAAGTGGAC",
+      "description": "F__StandardDemux_25_03",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "F__StandardDemux_25_03"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "5",
+      "sample_id": "P38454_1007",
+      "sample_name": "P38454_1007",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CTAGTGCTCT",
+      "index_2": "TACTGTTCCA",
+      "description": "F__StandardDemux_25_03",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "F__StandardDemux_25_03"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "5",
+      "sample_id": "P38454_1008",
+      "sample_name": "P38454_1008",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "GATCAAGGCA",
+      "index_2": "ATTAACAAGG",
+      "description": "F__StandardDemux_25_03",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "F__StandardDemux_25_03"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "5",
+      "sample_id": "P37005_1001",
+      "sample_name": "P37005_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TCAGCGAA",
+      "index_2": "",
+      "description": "G__DualSingleSameLane_25_01",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "G__DualSingleSameLane_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "5",
+      "sample_id": "P37005_1002",
+      "sample_name": "P37005_1002",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CCATTGTT",
+      "index_2": "",
+      "description": "G__DualSingleSameLane_25_01",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "G__DualSingleSameLane_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "5",
+      "sample_id": "P37005_1003",
+      "sample_name": "P37005_1003",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "AGAGGAAT",
+      "index_2": "",
+      "description": "G__DualSingleSameLane_25_01",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "G__DualSingleSameLane_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "6",
+      "sample_id": "P35504_101",
+      "sample_name": "P35504_101",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TAAACCCTAG",
+      "index_2": "TTCCTATCAG",
+      "description": "H__ShorterReads_25_01",
+      "control": "N",
+      "recipe": "43-50",
+      "operator": "John_Doe",
+      "sample_project": "H__ShorterReads_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "6",
+      "sample_id": "P35504_201",
+      "sample_name": "P35504_201",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CATGCTGCTC",
+      "index_2": "CGGTTTCCAC",
+      "description": "H__ShorterReads_25_01",
+      "control": "N",
+      "recipe": "43-50",
+      "operator": "John_Doe",
+      "sample_project": "H__ShorterReads_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "6",
+      "sample_id": "P35504_301",
+      "sample_name": "P35504_301",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "GATCGCGGTA",
+      "index_2": "GACGGTTCCG",
+      "description": "H__ShorterReads_25_01",
+      "control": "N",
+      "recipe": "43-50",
+      "operator": "John_Doe",
+      "sample_project": "H__ShorterReads_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "6",
+      "sample_id": "P35504_401",
+      "sample_name": "P35504_401",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CTAGAAATTG",
+      "index_2": "CGAAAGTAAG",
+      "description": "H__ShorterReads_25_01",
+      "control": "N",
+      "recipe": "43-50",
+      "operator": "John_Doe",
+      "sample_project": "H__ShorterReads_25_01"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "7",
+      "sample_id": "P37556_1001",
+      "sample_name": "P37556_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CGCCTCT",
+      "index_2": "CGTTCCT",
+      "description": "I__ShorterIndexes_25_12",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "I__ShorterIndexes_25_12"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "7",
+      "sample_id": "P37556_1002",
+      "sample_name": "P37556_1002",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CTTGCGG",
+      "index_2": "CGCCTCA",
+      "description": "I__ShorterIndexes_25_12",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "I__ShorterIndexes_25_12"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "7",
+      "sample_id": "P37556_1003",
+      "sample_name": "P37556_1003",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TGGACGT",
+      "index_2": "CAATCGA",
+      "description": "I__ShorterIndexes_25_12",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "I__ShorterIndexes_25_12"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "7",
+      "sample_id": "P37556_1004",
+      "sample_name": "P37556_1004",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "ATACTGA",
+      "index_2": "CCTTCGC",
+      "description": "I__ShorterIndexes_25_12",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "I__ShorterIndexes_25_12"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "7",
+      "sample_id": "P37987_1001",
+      "sample_name": "P37987_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TTAGCTGGAT",
+      "index_2": "",
+      "description": "J__SingleUMI_25_04",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "J__SingleUMI_25_04"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "7",
+      "sample_id": "P37987_1002",
+      "sample_name": "P37987_1002",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "AACGTTGTCT",
+      "index_2": "",
+      "description": "J__SingleUMI_25_04",
+      "control": "N",
+      "recipe": "151-151",
+      "operator": "John_Doe",
+      "sample_project": "J__SingleUMI_25_04"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "7",
+      "sample_id": "P37047_1001",
+      "sample_name": "P37047_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CCCATGAAGT",
+      "index_2": "",
+      "description": "K__DualUMI_25_04",
+      "control": "N",
+      "recipe": "143-151",
+      "operator": "John_Doe",
+      "sample_project": "K__DualUMI_25_04"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "7",
+      "sample_id": "P37047_1002",
+      "sample_name": "P37047_1002",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "GGTGCATCAA",
+      "index_2": "",
+      "description": "K__DualUMI_25_04",
+      "control": "N",
+      "recipe": "143-151",
+      "operator": "John_Doe",
+      "sample_project": "K__DualUMI_25_04"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "8",
+      "sample_id": "P37432_1001",
+      "sample_name": "P37432_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CGCCTCT",
+      "index_2": "CGTTCCT",
+      "description": "L__BothShorter_25_12",
+      "control": "N",
+      "recipe": "108-101",
+      "operator": "John_Doe",
+      "sample_project": "L__BothShorter_25_12"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "8",
+      "sample_id": "P37432_1002",
+      "sample_name": "P37432_1002",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CTTGCGG",
+      "index_2": "CGCCTCA",
+      "description": "L__BothShorter_25_12",
+      "control": "N",
+      "recipe": "108-101",
+      "operator": "John_Doe",
+      "sample_project": "L__BothShorter_25_12"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "8",
+      "sample_id": "P37432_1003",
+      "sample_name": "P37432_1003",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TGGACGT",
+      "index_2": "CAATCGA",
+      "description": "L__BothShorter_25_12",
+      "control": "N",
+      "recipe": "108-101",
+      "operator": "John_Doe",
+      "sample_project": "L__BothShorter_25_12"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "8",
+      "sample_id": "P37432_1004",
+      "sample_name": "P37432_1004",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "ATACTGA",
+      "index_2": "CCTTCGC",
+      "description": "L__BothShorter_25_12",
+      "control": "N",
+      "recipe": "108-101",
+      "operator": "John_Doe",
+      "sample_project": "L__BothShorter_25_12"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "8",
+      "sample_id": "P36439_1001",
+      "sample_name": "P36439_1001",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "TGTACTGT",
+      "index_2": "ATCGTAGA",
+      "description": "M__Index2ToFastQ_25_12",
+      "control": "N",
+      "recipe": "108-101",
+      "operator": "John_Doe",
+      "sample_project": "M__Index2ToFastQ_25_12"
+    },
+    {
+      "flowcell_id": "A12GGASZR5",
+      "lane": "8",
+      "sample_id": "P36439_1002",
+      "sample_name": "P36439_1002",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "index_1": "CACAGTGT",
+      "index_2": "TGTCGTAA",
+      "description": "M__Index2ToFastQ_25_12",
+      "control": "N",
+      "recipe": "108-101",
+      "operator": "John_Doe",
+      "sample_project": "M__Index2ToFastQ_25_12"
+    }
+  ],
+  "calculated": {
+    "version_history": {
+      "2026-03-10T16:00:00.00": {
+        "generated_by": null,
+        "autogenerated": true,
+        "comment": "",
+        "auto_run": true
+      }
+    },
+    "lanes": {
+      "1": {
+        "sample_rows": {
+          "f57948f2-9477-4772-8886-8dca0b8769e4": {
+            "sample_id": "P37902_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "A__NoIndex_25_08",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "",
+                "index_2": "",
+                "lane": "1",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;N10;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37902_1001",
+                "sample_project": "A__NoIndex_25_08",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "NOINDEX",
+                "index_length": [
+                  0,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          }
+        }
+      },
+      "2": {
+        "sample_rows": {
+          "675de729-529b-4d21-b428-60e226da7be4": {
+            "sample_id": "P36906_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "A__StandardDemux_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "GCTACGCT",
+                "index_2": "",
+                "lane": "2",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "GCTACGCT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P36906_1001",
+                "sample_project": "A__StandardDemux_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "58f51da9-6275-43a8-ba82-33cf8c4e22f2": {
+            "sample_id": "P36906_1002",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "A__StandardDemux_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CGAGGCTG",
+                "index_2": "",
+                "lane": "2",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CGAGGCTG",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P36906_1002",
+                "sample_project": "A__StandardDemux_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "dd7a215a-e6d3-4d7f-8318-d686e4ee9f54": {
+            "sample_id": "P36906_1003",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "A__StandardDemux_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "AAGAGGCA",
+                "index_2": "",
+                "lane": "2",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "AAGAGGCA",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P36906_1003",
+                "sample_project": "A__StandardDemux_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "1074b5d9-cc95-4628-9cdd-f7265fdc6365": {
+            "sample_id": "P37869_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "B__NoMismatches_25_02",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TTACCGAC",
+                "index_2": "",
+                "lane": "2",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TTACCGAC",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37869_1001",
+                "sample_project": "B__NoMismatches_25_02",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "982b1300-cf65-44fe-8ba5-d1636bfd4819": {
+            "sample_id": "P37869_1002",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "B__NoMismatches_25_02",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "AGTGACCT",
+                "index_2": "",
+                "lane": "2",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "AGTGACCT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37869_1002",
+                "sample_project": "B__NoMismatches_25_02",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "ee67177b-3ad7-47f7-bf5b-951090c09b3e": {
+            "sample_id": "P37869_1003",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "B__NoMismatches_25_02",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TCGGATTC",
+                "index_2": "",
+                "lane": "2",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TCGGATTC",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37869_1003",
+                "sample_project": "B__NoMismatches_25_02",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "46f5189d-2fa7-42d1-9f4d-f2a2d2be9f24": {
+            "sample_id": "P37869_1004",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "B__NoMismatches_25_02",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CAAGGTAC",
+                "index_2": "",
+                "lane": "2",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CAAGGTAC",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37869_1004",
+                "sample_project": "B__NoMismatches_25_02",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "567c3ae7-f544-4707-b4d5-f4126d6cc860": {
+            "sample_id": "P37869_1005",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "B__NoMismatches_25_02",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TCCTCATG",
+                "index_2": "",
+                "lane": "2",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TCCTCATG",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37869_1005",
+                "sample_project": "B__NoMismatches_25_02",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          }
+        }
+      },
+      "3": {
+        "sample_rows": {
+          "32427941-82c2-4b20-b372-c4d9f1972507": {
+            "sample_id": "P36705_101",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "C__MixedLengths_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "GCGCGGTTAA",
+                "index_2": "",
+                "lane": "3",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "GCGCGGTTAA",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P36705_101",
+                "sample_project": "C__MixedLengths_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "7e558827-b385-4c98-b52c-a0b1d39aa0ad": {
+            "sample_id": "P36705_102",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "C__MixedLengths_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TTCCTTGAGG",
+                "index_2": "",
+                "lane": "3",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TTCCTTGAGG",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P36705_102",
+                "sample_project": "C__MixedLengths_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "987e3d89-0ceb-4c42-bdb2-5da3f78a2ecd": {
+            "sample_id": "P37004_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "D__MixedLengths_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TCAGCGAA",
+                "index_2": "",
+                "lane": "3",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TCAGCGAA",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37004_1001",
+                "sample_project": "D__MixedLengths_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "0eec758d-5de5-410f-9349-2014a6feb781": {
+            "sample_id": "P37004_1002",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "D__MixedLengths_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CCATTGTT",
+                "index_2": "",
+                "lane": "3",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CCATTGTT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37004_1002",
+                "sample_project": "D__MixedLengths_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          }
+        }
+      },
+      "4": {
+        "sample_rows": {
+          "661dc559-2142-4cfc-bd74-ad4a56212ef6": {
+            "sample_id": "P37234_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "E__ShorterThanSetup_25_02",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TTACCGAC",
+                "index_2": "",
+                "lane": "4",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TTACCGAC",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37234_1001",
+                "sample_project": "E__ShorterThanSetup_25_02",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "e35c8f47-1489-4c6b-8578-46eede37a7ed": {
+            "sample_id": "P37234_1002",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "E__ShorterThanSetup_25_02",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "AGTGACCT",
+                "index_2": "",
+                "lane": "4",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "AGTGACCT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37234_1002",
+                "sample_project": "E__ShorterThanSetup_25_02",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "f336eafc-80fc-48af-baa3-881769e6d6e4": {
+            "sample_id": "P37234_1003",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "E__ShorterThanSetup_25_02",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TCGGATTC",
+                "index_2": "",
+                "lane": "4",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TCGGATTC",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37234_1003",
+                "sample_project": "E__ShorterThanSetup_25_02",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "0fafb3a9-4c09-47d3-97a5-b732a898d57b": {
+            "sample_id": "P37234_1004",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "E__ShorterThanSetup_25_02",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CAAGGTAC",
+                "index_2": "",
+                "lane": "4",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CAAGGTAC",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37234_1004",
+                "sample_project": "E__ShorterThanSetup_25_02",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "afb4caea-3a7e-4e4a-9a1f-c386f842fca4": {
+            "sample_id": "P37234_1005",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "E__ShorterThanSetup_25_02",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TCCTCATG",
+                "index_2": "",
+                "lane": "4",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TCCTCATG",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37234_1005",
+                "sample_project": "E__ShorterThanSetup_25_02",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          }
+        }
+      },
+      "5": {
+        "sample_rows": {
+          "8123f677-0400-43d2-b833-a7d2ccb4af8b": {
+            "sample_id": "P38454_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "F__StandardDemux_25_03",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "GAACTGAGCG",
+                "index_2": "CGCTCCACGA",
+                "lane": "5",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "GAACTGAGCG",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;I10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P38454_1001",
+                "sample_project": "F__StandardDemux_25_03",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "a701aa7f-f707-416f-a4a6-10d774e04131": {
+            "sample_id": "P38454_1002",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "F__StandardDemux_25_03",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "AGGTCAGATA",
+                "index_2": "TATCTTGTAG",
+                "lane": "5",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "AGGTCAGATA",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;I10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P38454_1002",
+                "sample_project": "F__StandardDemux_25_03",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "4a55c7eb-5bb3-44e9-827d-e7e1cbd67c25": {
+            "sample_id": "P38454_1003",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "F__StandardDemux_25_03",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CGTCTCATAT",
+                "index_2": "AGCTACTATA",
+                "lane": "5",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CGTCTCATAT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;I10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P38454_1003",
+                "sample_project": "F__StandardDemux_25_03",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "ee32ef74-c6ed-462d-8cca-110fbf4d0678": {
+            "sample_id": "P38454_1004",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "F__StandardDemux_25_03",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "ATTCCATAAG",
+                "index_2": "CCACCAGGCA",
+                "lane": "5",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "ATTCCATAAG",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;I10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P38454_1004",
+                "sample_project": "F__StandardDemux_25_03",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "c7859841-a6e3-4000-a562-9d156501b9b2": {
+            "sample_id": "P38454_1005",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "F__StandardDemux_25_03",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "GACGAGATTA",
+                "index_2": "AGGATAATGT",
+                "lane": "5",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "GACGAGATTA",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;I10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P38454_1005",
+                "sample_project": "F__StandardDemux_25_03",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "b24ad25f-6932-4fbc-8100-dd6de58e76df": {
+            "sample_id": "P38454_1006",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "F__StandardDemux_25_03",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "AACATCGCGC",
+                "index_2": "ACAAGTGGAC",
+                "lane": "5",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "AACATCGCGC",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;I10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P38454_1006",
+                "sample_project": "F__StandardDemux_25_03",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "9579da35-ac67-4539-b835-ad8aac429af3": {
+            "sample_id": "P38454_1007",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "F__StandardDemux_25_03",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CTAGTGCTCT",
+                "index_2": "TACTGTTCCA",
+                "lane": "5",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CTAGTGCTCT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;I10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P38454_1007",
+                "sample_project": "F__StandardDemux_25_03",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "797aaaf7-4db3-40ad-9bab-f50271620745": {
+            "sample_id": "P38454_1008",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "F__StandardDemux_25_03",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "GATCAAGGCA",
+                "index_2": "ATTAACAAGG",
+                "lane": "5",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "GATCAAGGCA",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;I10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P38454_1008",
+                "sample_project": "F__StandardDemux_25_03",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "7b9e6bf2-4d3f-476c-a564-5e256f3de83b": {
+            "sample_id": "P37005_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "G__DualSingleSameLane_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TCAGCGAA",
+                "index_2": "",
+                "lane": "5",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TCAGCGAA",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37005_1001",
+                "sample_project": "G__DualSingleSameLane_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "a1d14dcd-3d8f-43bb-8721-dc6052c9b3f7": {
+            "sample_id": "P37005_1002",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "G__DualSingleSameLane_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CCATTGTT",
+                "index_2": "",
+                "lane": "5",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CCATTGTT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37005_1002",
+                "sample_project": "G__DualSingleSameLane_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "307b4c5b-742c-4e9f-9cef-b32f9b10a3da": {
+            "sample_id": "P37005_1003",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "G__DualSingleSameLane_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "AGAGGAAT",
+                "index_2": "",
+                "lane": "5",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "AGAGGAAT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I8N2;N10;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37005_1003",
+                "sample_project": "G__DualSingleSameLane_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          }
+        }
+      },
+      "6": {
+        "sample_rows": {
+          "1359e388-58e7-4015-bbb1-5ecdfb10c8cd": {
+            "sample_id": "P35504_101",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "H__ShorterReads_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TAAACCCTAG",
+                "index_2": "TTCCTATCAG",
+                "lane": "6",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TAAACCCTAG",
+                "operator": "John_Doe",
+                "override_cycles": "Y43N108;I10;I10;Y50N101",
+                "recipe": "43-50",
+                "sample_name": "P35504_101",
+                "sample_project": "H__ShorterReads_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "6631e4f9-a5a3-4342-ba86-f8f5735369b0": {
+            "sample_id": "P35504_201",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "H__ShorterReads_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CATGCTGCTC",
+                "index_2": "CGGTTTCCAC",
+                "lane": "6",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CATGCTGCTC",
+                "operator": "John_Doe",
+                "override_cycles": "Y43N108;I10;I10;Y50N101",
+                "recipe": "43-50",
+                "sample_name": "P35504_201",
+                "sample_project": "H__ShorterReads_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "928b85ba-66b5-40d4-8809-77c2f9c3857c": {
+            "sample_id": "P35504_301",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "H__ShorterReads_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "GATCGCGGTA",
+                "index_2": "GACGGTTCCG",
+                "lane": "6",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "GATCGCGGTA",
+                "operator": "John_Doe",
+                "override_cycles": "Y43N108;I10;I10;Y50N101",
+                "recipe": "43-50",
+                "sample_name": "P35504_301",
+                "sample_project": "H__ShorterReads_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "209847ee-c3e6-4664-86dc-02310f40f162": {
+            "sample_id": "P35504_401",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "H__ShorterReads_25_01",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CTAGAAATTG",
+                "index_2": "CGAAAGTAAG",
+                "lane": "6",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CTAGAAATTG",
+                "operator": "John_Doe",
+                "override_cycles": "Y43N108;I10;I10;Y50N101",
+                "recipe": "43-50",
+                "sample_name": "P35504_401",
+                "sample_project": "H__ShorterReads_25_01",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  10
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          }
+        }
+      },
+      "7": {
+        "sample_rows": {
+          "ec4facdc-d833-4aeb-82cf-7a68f0c5797e": {
+            "sample_id": "P37556_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "I__ShorterIndexes_25_12",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CGCCTCT",
+                "index_2": "CGTTCCT",
+                "lane": "7",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CGCCTCT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I7N3;I7N3;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37556_1001",
+                "sample_project": "I__ShorterIndexes_25_12",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  7,
+                  7
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "8ae21897-1681-44a8-a6ea-56c78c566331": {
+            "sample_id": "P37556_1002",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "I__ShorterIndexes_25_12",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CTTGCGG",
+                "index_2": "CGCCTCA",
+                "lane": "7",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CTTGCGG",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I7N3;I7N3;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37556_1002",
+                "sample_project": "I__ShorterIndexes_25_12",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  7,
+                  7
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "ed5166ec-e34b-4557-a8cc-17dd3d40d0cd": {
+            "sample_id": "P37556_1003",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "I__ShorterIndexes_25_12",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TGGACGT",
+                "index_2": "CAATCGA",
+                "lane": "7",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TGGACGT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I7N3;I7N3;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37556_1003",
+                "sample_project": "I__ShorterIndexes_25_12",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  7,
+                  7
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "7e849f88-94cd-4932-b398-b884f38edc04": {
+            "sample_id": "P37556_1004",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "I__ShorterIndexes_25_12",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "ATACTGA",
+                "index_2": "CCTTCGC",
+                "lane": "7",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "ATACTGA",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I7N3;I7N3;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37556_1004",
+                "sample_project": "I__ShorterIndexes_25_12",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  7,
+                  7
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "6ab8985d-0bc2-46ff-aa75-ad54a3d8839d": {
+            "sample_id": "P37987_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "J__SingleUMI_25_04",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TTAGCTGGAT",
+                "index_2": "",
+                "lane": "7",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TTAGCTGGAT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;U8N2;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37987_1001",
+                "sample_project": "J__SingleUMI_25_04",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  8
+                ]
+              }
+            }
+          },
+          "b8f37d19-cec4-4325-8856-f4b5f1ffd9f2": {
+            "sample_id": "P37987_1002",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "J__SingleUMI_25_04",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "AACGTTGTCT",
+                "index_2": "",
+                "lane": "7",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "AACGTTGTCT",
+                "operator": "John_Doe",
+                "override_cycles": "Y151;I10;U8N2;Y151",
+                "recipe": "151-151",
+                "sample_name": "P37987_1002",
+                "sample_project": "J__SingleUMI_25_04",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  0
+                ],
+                "umi_length": [
+                  0,
+                  8
+                ]
+              }
+            }
+          },
+          "f3ee5109-e193-4ffe-8e4c-6db38833bdd9": {
+            "sample_id": "P37047_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "K__DualUMI_25_04",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CCCATGAAGT",
+                "index_2": "",
+                "lane": "7",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CCCATGAAGT",
+                "operator": "John_Doe",
+                "override_cycles": "U8Y143;I10;U8N2;Y151",
+                "recipe": "143-151",
+                "sample_name": "P37047_1001",
+                "sample_project": "K__DualUMI_25_04",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  0
+                ],
+                "umi_length": [
+                  8,
+                  8
+                ]
+              }
+            }
+          },
+          "ae5c6da9-37ef-4e77-8168-61e5f3c4faff": {
+            "sample_id": "P37047_1002",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "K__DualUMI_25_04",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "GGTGCATCAA",
+                "index_2": "",
+                "lane": "7",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "GGTGCATCAA",
+                "operator": "John_Doe",
+                "override_cycles": "U8Y143;I10;U8N2;Y151",
+                "recipe": "143-151",
+                "sample_name": "P37047_1002",
+                "sample_project": "K__DualUMI_25_04",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  10,
+                  0
+                ],
+                "umi_length": [
+                  8,
+                  8
+                ]
+              }
+            }
+          }
+        }
+      },
+      "8": {
+        "sample_rows": {
+          "0772e46a-8000-4d0f-b30b-4085b8fac815": {
+            "sample_id": "P37432_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "L__BothShorter_25_12",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CGCCTCT",
+                "index_2": "CGTTCCT",
+                "lane": "8",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CGCCTCT",
+                "operator": "John_Doe",
+                "override_cycles": "Y108N43;I7N3;I7N3;Y101N50",
+                "recipe": "108-101",
+                "sample_name": "P37432_1001",
+                "sample_project": "L__BothShorter_25_12",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  7,
+                  7
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "f1aaa5fe-dded-42ad-86cf-0e11e00b3d2d": {
+            "sample_id": "P37432_1002",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "L__BothShorter_25_12",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CTTGCGG",
+                "index_2": "CGCCTCA",
+                "lane": "8",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CTTGCGG",
+                "operator": "John_Doe",
+                "override_cycles": "Y108N43;I7N3;I7N3;Y101N50",
+                "recipe": "108-101",
+                "sample_name": "P37432_1002",
+                "sample_project": "L__BothShorter_25_12",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  7,
+                  7
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "db36fc0b-6b57-4191-b7df-c4dc6768a939": {
+            "sample_id": "P37432_1003",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "L__BothShorter_25_12",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TGGACGT",
+                "index_2": "CAATCGA",
+                "lane": "8",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TGGACGT",
+                "operator": "John_Doe",
+                "override_cycles": "Y108N43;I7N3;I7N3;Y101N50",
+                "recipe": "108-101",
+                "sample_name": "P37432_1003",
+                "sample_project": "L__BothShorter_25_12",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  7,
+                  7
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "83b613ad-68b7-490b-85da-4e728a1266e1": {
+            "sample_id": "P37432_1004",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "L__BothShorter_25_12",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "ATACTGA",
+                "index_2": "CCTTCGC",
+                "lane": "8",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "ATACTGA",
+                "operator": "John_Doe",
+                "override_cycles": "Y108N43;I7N3;I7N3;Y101N50",
+                "recipe": "108-101",
+                "sample_name": "P37432_1004",
+                "sample_project": "L__BothShorter_25_12",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  7,
+                  7
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "b62df5df-ec60-486c-8259-7db335cbda92": {
+            "sample_id": "P36439_1001",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "M__Index2ToFastQ_25_12",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "TGTACTGT",
+                "index_2": "ATCGTAGA",
+                "lane": "8",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "TGTACTGT",
+                "operator": "John_Doe",
+                "override_cycles": "Y108N43;I8N2;I8N2;Y101N50",
+                "recipe": "108-101",
+                "sample_name": "P36439_1001",
+                "sample_project": "M__Index2ToFastQ_25_12",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  8
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          },
+          "1b9f06c8-81db-4dc2-8d45-bd5cc73d91c5": {
+            "sample_id": "P36439_1002",
+            "last_modified": "2026-03-10T16:00:00.00",
+            "settings": {
+              "2026-03-10T16:00:00.00": {
+                "control": "N",
+                "description": "M__Index2ToFastQ_25_12",
+                "flowcell_id": "A12GGASZR5",
+                "index_1": "CACAGTGT",
+                "index_2": "TGTCGTAA",
+                "lane": "8",
+                "mask_short_reads": 0,
+                "minimum_trimmed_read_length": 0,
+                "named_index": "CACAGTGT",
+                "operator": "John_Doe",
+                "override_cycles": "Y108N43;I8N2;I8N2;Y101N50",
+                "recipe": "108-101",
+                "sample_name": "P36439_1002",
+                "sample_project": "M__Index2ToFastQ_25_12",
+                "sample_ref": "Human (Homo sapiens GRCh38)",
+                "sample_type": "ordinary",
+                "index_length": [
+                  8,
+                  8
+                ],
+                "umi_length": [
+                  0,
+                  0
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
