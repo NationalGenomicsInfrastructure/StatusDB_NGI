@@ -1,0 +1,1630 @@
+{
+  "_id": "dbeef86d8ce15b6096feae22f0d0c163",
+  "flowcell_id": "C36MNBVCX7",
+  "metadata": {
+    "num_lanes": 4,
+    "run_setup": "151_10_10_151",
+    "setup_lims_step_id": "",
+    "instrument_type": "NovaSeqXSeries",
+    "run_mode": "NovaSeqXSeries 302",
+    "first_generated": "2026-03-10T16:00:00.000+00:00"
+  },
+  "uploaded_lims_info": [
+    {
+      "lane": "1",
+      "sample_id": "P38454_1001",
+      "sample_name": "P38454_1001",
+      "sample_project": "A__StandardDemux_25_03",
+      "description": "A__StandardDemux_25_03",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "GAACTGAGCG",
+      "index2": "CGCTCCACGA"
+    },
+    {
+      "lane": "1",
+      "sample_id": "P38454_1002",
+      "sample_name": "P38454_1002",
+      "sample_project": "A__StandardDemux_25_03",
+      "description": "A__StandardDemux_25_03",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "AGGTCAGATA",
+      "index2": "TATCTTGTAG"
+    },
+    {
+      "lane": "1",
+      "sample_id": "P38454_1003",
+      "sample_name": "P38454_1003",
+      "sample_project": "A__StandardDemux_25_03",
+      "description": "A__StandardDemux_25_03",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "CGTCTCATAT",
+      "index2": "AGCTACTATA"
+    },
+    {
+      "lane": "1",
+      "sample_id": "P38454_1004",
+      "sample_name": "P38454_1004",
+      "sample_project": "A__StandardDemux_25_03",
+      "description": "A__StandardDemux_25_03",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "ATTCCATAAG",
+      "index2": "CCACCAGGCA"
+    },
+    {
+      "lane": "1",
+      "sample_id": "P38454_1005",
+      "sample_name": "P38454_1005",
+      "sample_project": "A__StandardDemux_25_03",
+      "description": "A__StandardDemux_25_03",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "GACGAGATTA",
+      "index2": "AGGATAATGT"
+    },
+    {
+      "lane": "1",
+      "sample_id": "P38454_1006",
+      "sample_name": "P38454_1006",
+      "sample_project": "A__StandardDemux_25_03",
+      "description": "A__StandardDemux_25_03",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "AACATCGCGC",
+      "index2": "ACAAGTGGAC"
+    },
+    {
+      "lane": "1",
+      "sample_id": "P38454_1007",
+      "sample_name": "P38454_1007",
+      "sample_project": "A__StandardDemux_25_03",
+      "description": "A__StandardDemux_25_03",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "CTAGTGCTCT",
+      "index2": "TACTGTTCCA"
+    },
+    {
+      "lane": "1",
+      "sample_id": "P38454_1008",
+      "sample_name": "P38454_1008",
+      "sample_project": "A__StandardDemux_25_03",
+      "description": "A__StandardDemux_25_03",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "GATCAAGGCA",
+      "index2": "ATTAACAAGG"
+    },
+    {
+      "lane": "2",
+      "sample_id": "P35504_101",
+      "sample_name": "P35504_101",
+      "sample_project": "B__ShorterReads_25_01",
+      "description": "B__ShorterReads_25_01",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "TAAACCCTAG",
+      "index2": "TTCCTATCAG"
+    },
+    {
+      "lane": "2",
+      "sample_id": "P35504_201",
+      "sample_name": "P35504_201",
+      "sample_project": "B__ShorterReads_25_01",
+      "description": "B__ShorterReads_25_01",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "CATGCTGCTC",
+      "index2": "CGGTTTCCAC"
+    },
+    {
+      "lane": "2",
+      "sample_id": "P35504_301",
+      "sample_name": "P35504_301",
+      "sample_project": "B__ShorterReads_25_01",
+      "description": "B__ShorterReads_25_01",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "GATCGCGGTA",
+      "index2": "GACGGTTCCG"
+    },
+    {
+      "lane": "2",
+      "sample_id": "P35504_401",
+      "sample_name": "P35504_401",
+      "sample_project": "B__ShorterReads_25_01",
+      "description": "B__ShorterReads_25_01",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "CTAGAAATTG",
+      "index2": "CGAAAGTAAG"
+    },
+    {
+      "lane": "3",
+      "sample_id": "P37556_1001",
+      "sample_name": "P37556_1001",
+      "sample_project": "C__ShorterIndexes_25_12",
+      "description": "C__ShorterIndexes_25_12",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "CGCCTCT",
+      "index2": "CGTTCCT"
+    },
+    {
+      "lane": "3",
+      "sample_id": "P37556_1002",
+      "sample_name": "P37556_1002",
+      "sample_project": "C__ShorterIndexes_25_12",
+      "description": "C__ShorterIndexes_25_12",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "CTTGCGG",
+      "index2": "CGCCTCA"
+    },
+    {
+      "lane": "3",
+      "sample_id": "P37556_1003",
+      "sample_name": "P37556_1003",
+      "sample_project": "C__ShorterIndexes_25_12",
+      "description": "C__ShorterIndexes_25_12",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "TGGACGT",
+      "index2": "CAATCGA"
+    },
+    {
+      "lane": "3",
+      "sample_id": "P37556_1004",
+      "sample_name": "P37556_1004",
+      "sample_project": "C__ShorterIndexes_25_12",
+      "description": "C__ShorterIndexes_25_12",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "ATACTGA",
+      "index2": "CCTTCGC"
+    },
+    {
+      "lane": "4",
+      "sample_id": "P37432_1001",
+      "sample_name": "P37432_1001",
+      "sample_project": "D__BothShorter_25_12",
+      "description": "D__BothShorter_25_12",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "CGCCTCT",
+      "index2": "CGTTCCT"
+    },
+    {
+      "lane": "4",
+      "sample_id": "P37432_1002",
+      "sample_name": "P37432_1002",
+      "sample_project": "D__BothShorter_25_12",
+      "description": "D__BothShorter_25_12",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "CTTGCGG",
+      "index2": "CGCCTCA"
+    },
+    {
+      "lane": "4",
+      "sample_id": "P37432_1003",
+      "sample_name": "P37432_1003",
+      "sample_project": "D__BothShorter_25_12",
+      "description": "D__BothShorter_25_12",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "TGGACGT",
+      "index2": "CAATCGA"
+    },
+    {
+      "lane": "4",
+      "sample_id": "P37432_1004",
+      "sample_name": "P37432_1004",
+      "sample_project": "D__BothShorter_25_12",
+      "description": "D__BothShorter_25_12",
+      "sample_ref": "Human (Homo sapiens GRCh38)",
+      "rc": "151-151",
+      "recipe": "151-10-10-151",
+      "control": "N",
+      "operator": "John_Doe",
+      "flowcell_id": "C36MNBVCX7",
+      "sw": "1:1",
+      "index": "ATACTGA",
+      "index2": "CCTTCGC"
+    }
+  ],
+  "calculated": {
+    "version_history": {
+      "2026-03-10T16:00:00.000+00:00": {
+        "generated_by": null,
+        "autogenerated": true,
+        "comment": "Uploaded from LIMS",
+        "auto_run": true,
+        "config_version": "1.1.0"
+      }
+    },
+    "lanes": {
+      "1": {
+        "sample_rows": {
+          "fad9998b53f35106b85731284c6c7ed1": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P38454",
+            "project_name": "A.StandardDemux_25_03",
+            "control": "N",
+            "description": "A__StandardDemux_25_03",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "GAACTGAGCG",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P38454"
+                },
+                "per_sample_fields": {
+                  "Lane": "1",
+                  "Sample_ID": "Sample_P38454_1001",
+                  "index": "GAACTGAGCG",
+                  "index2": "CGCTCCACGA",
+                  "OverrideCycles": "Y151;I10;I10;Y151",
+                  "Sample_Name": "P38454_1001",
+                  "Sample_Project": "A__StandardDemux_25_03"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "b31d2011a7c95defa5a0a1fa62eab03a": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P38454",
+            "project_name": "A.StandardDemux_25_03",
+            "control": "N",
+            "description": "A__StandardDemux_25_03",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "AGGTCAGATA",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P38454"
+                },
+                "per_sample_fields": {
+                  "Lane": "1",
+                  "Sample_ID": "Sample_P38454_1002",
+                  "index": "AGGTCAGATA",
+                  "index2": "TATCTTGTAG",
+                  "OverrideCycles": "Y151;I10;I10;Y151",
+                  "Sample_Name": "P38454_1002",
+                  "Sample_Project": "A__StandardDemux_25_03"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "0047ba309363569baa10ac2f62203b4e": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P38454",
+            "project_name": "A.StandardDemux_25_03",
+            "control": "N",
+            "description": "A__StandardDemux_25_03",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "CGTCTCATAT",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P38454"
+                },
+                "per_sample_fields": {
+                  "Lane": "1",
+                  "Sample_ID": "Sample_P38454_1003",
+                  "index": "CGTCTCATAT",
+                  "index2": "AGCTACTATA",
+                  "OverrideCycles": "Y151;I10;I10;Y151",
+                  "Sample_Name": "P38454_1003",
+                  "Sample_Project": "A__StandardDemux_25_03"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "7fc1639598465fa79d16b33fe399eb59": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P38454",
+            "project_name": "A.StandardDemux_25_03",
+            "control": "N",
+            "description": "A__StandardDemux_25_03",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "ATTCCATAAG",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P38454"
+                },
+                "per_sample_fields": {
+                  "Lane": "1",
+                  "Sample_ID": "Sample_P38454_1004",
+                  "index": "ATTCCATAAG",
+                  "index2": "CCACCAGGCA",
+                  "OverrideCycles": "Y151;I10;I10;Y151",
+                  "Sample_Name": "P38454_1004",
+                  "Sample_Project": "A__StandardDemux_25_03"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "ec6fcc8879ee52eda620ac23e32231cb": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P38454",
+            "project_name": "A.StandardDemux_25_03",
+            "control": "N",
+            "description": "A__StandardDemux_25_03",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "GACGAGATTA",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P38454"
+                },
+                "per_sample_fields": {
+                  "Lane": "1",
+                  "Sample_ID": "Sample_P38454_1005",
+                  "index": "GACGAGATTA",
+                  "index2": "AGGATAATGT",
+                  "OverrideCycles": "Y151;I10;I10;Y151",
+                  "Sample_Name": "P38454_1005",
+                  "Sample_Project": "A__StandardDemux_25_03"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "344c15c9b0515bbc837fbf8756d40893": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P38454",
+            "project_name": "A.StandardDemux_25_03",
+            "control": "N",
+            "description": "A__StandardDemux_25_03",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "AACATCGCGC",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P38454"
+                },
+                "per_sample_fields": {
+                  "Lane": "1",
+                  "Sample_ID": "Sample_P38454_1006",
+                  "index": "AACATCGCGC",
+                  "index2": "ACAAGTGGAC",
+                  "OverrideCycles": "Y151;I10;I10;Y151",
+                  "Sample_Name": "P38454_1006",
+                  "Sample_Project": "A__StandardDemux_25_03"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "93e23d4c7bac5969b294bd338a81ec0b": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P38454",
+            "project_name": "A.StandardDemux_25_03",
+            "control": "N",
+            "description": "A__StandardDemux_25_03",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "CTAGTGCTCT",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P38454"
+                },
+                "per_sample_fields": {
+                  "Lane": "1",
+                  "Sample_ID": "Sample_P38454_1007",
+                  "index": "CTAGTGCTCT",
+                  "index2": "TACTGTTCCA",
+                  "OverrideCycles": "Y151;I10;I10;Y151",
+                  "Sample_Name": "P38454_1007",
+                  "Sample_Project": "A__StandardDemux_25_03"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "449182eecc1c5d9d9cc13d9942d65716": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P38454",
+            "project_name": "A.StandardDemux_25_03",
+            "control": "N",
+            "description": "A__StandardDemux_25_03",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "GATCAAGGCA",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P38454"
+                },
+                "per_sample_fields": {
+                  "Lane": "1",
+                  "Sample_ID": "Sample_P38454_1008",
+                  "index": "GATCAAGGCA",
+                  "index2": "ATTAACAAGG",
+                  "OverrideCycles": "Y151;I10;I10;Y151",
+                  "Sample_Name": "P38454_1008",
+                  "Sample_Project": "A__StandardDemux_25_03"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          }
+        }
+      },
+      "2": {
+        "sample_rows": {
+          "1ed37787eb475099b51db94befb122e8": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P35504",
+            "project_name": "B.ShorterReads_25_01",
+            "control": "N",
+            "description": "B__ShorterReads_25_01",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "TAAACCCTAG",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P35504"
+                },
+                "per_sample_fields": {
+                  "Lane": "2",
+                  "Sample_ID": "Sample_P35504_101",
+                  "index": "TAAACCCTAG",
+                  "index2": "TTCCTATCAG",
+                  "OverrideCycles": "Y43N108;I10;I10;Y50N101",
+                  "Sample_Name": "P35504_101",
+                  "Sample_Project": "B__ShorterReads_25_01"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "eb8696e214ef5d57abc505b693305d84": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P35504",
+            "project_name": "B.ShorterReads_25_01",
+            "control": "N",
+            "description": "B__ShorterReads_25_01",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "CATGCTGCTC",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P35504"
+                },
+                "per_sample_fields": {
+                  "Lane": "2",
+                  "Sample_ID": "Sample_P35504_201",
+                  "index": "CATGCTGCTC",
+                  "index2": "CGGTTTCCAC",
+                  "OverrideCycles": "Y43N108;I10;I10;Y50N101",
+                  "Sample_Name": "P35504_201",
+                  "Sample_Project": "B__ShorterReads_25_01"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "cc424ad7385d5983accb618f680c4728": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P35504",
+            "project_name": "B.ShorterReads_25_01",
+            "control": "N",
+            "description": "B__ShorterReads_25_01",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "GATCGCGGTA",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P35504"
+                },
+                "per_sample_fields": {
+                  "Lane": "2",
+                  "Sample_ID": "Sample_P35504_301",
+                  "index": "GATCGCGGTA",
+                  "index2": "GACGGTTCCG",
+                  "OverrideCycles": "Y43N108;I10;I10;Y50N101",
+                  "Sample_Name": "P35504_301",
+                  "Sample_Project": "B__ShorterReads_25_01"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "e7942417744c566986216f8b53ae211e": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P35504",
+            "project_name": "B.ShorterReads_25_01",
+            "control": "N",
+            "description": "B__ShorterReads_25_01",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "CTAGAAATTG",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    10,
+                    10
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P35504"
+                },
+                "per_sample_fields": {
+                  "Lane": "2",
+                  "Sample_ID": "Sample_P35504_401",
+                  "index": "CTAGAAATTG",
+                  "index2": "CGAAAGTAAG",
+                  "OverrideCycles": "Y43N108;I10;I10;Y50N101",
+                  "Sample_Name": "P35504_401",
+                  "Sample_Project": "B__ShorterReads_25_01"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          }
+        }
+      },
+      "3": {
+        "sample_rows": {
+          "03f73473fe1d549db37e4ed47e8ce15e": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P37556",
+            "project_name": "C.ShorterIndexes_25_12",
+            "control": "N",
+            "description": "C__ShorterIndexes_25_12",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "CGCCTCT",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    7,
+                    7
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P37556"
+                },
+                "per_sample_fields": {
+                  "Lane": "3",
+                  "Sample_ID": "Sample_P37556_1001",
+                  "index": "CGCCTCT",
+                  "index2": "CGTTCCT",
+                  "OverrideCycles": "Y151;I7N3;I7N3;Y151",
+                  "Sample_Name": "P37556_1001",
+                  "Sample_Project": "C__ShorterIndexes_25_12"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "055aeddaddfd5b328bd9ec211b93c275": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P37556",
+            "project_name": "C.ShorterIndexes_25_12",
+            "control": "N",
+            "description": "C__ShorterIndexes_25_12",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "CTTGCGG",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    7,
+                    7
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P37556"
+                },
+                "per_sample_fields": {
+                  "Lane": "3",
+                  "Sample_ID": "Sample_P37556_1002",
+                  "index": "CTTGCGG",
+                  "index2": "CGCCTCA",
+                  "OverrideCycles": "Y151;I7N3;I7N3;Y151",
+                  "Sample_Name": "P37556_1002",
+                  "Sample_Project": "C__ShorterIndexes_25_12"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "ec37d6eaf7f052a7a6b64d9600ca178b": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P37556",
+            "project_name": "C.ShorterIndexes_25_12",
+            "control": "N",
+            "description": "C__ShorterIndexes_25_12",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "TGGACGT",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    7,
+                    7
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P37556"
+                },
+                "per_sample_fields": {
+                  "Lane": "3",
+                  "Sample_ID": "Sample_P37556_1003",
+                  "index": "TGGACGT",
+                  "index2": "CAATCGA",
+                  "OverrideCycles": "Y151;I7N3;I7N3;Y151",
+                  "Sample_Name": "P37556_1003",
+                  "Sample_Project": "C__ShorterIndexes_25_12"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "32491eca672551a88b974abdc80845f4": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P37556",
+            "project_name": "C.ShorterIndexes_25_12",
+            "control": "N",
+            "description": "C__ShorterIndexes_25_12",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "ATACTGA",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    7,
+                    7
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P37556"
+                },
+                "per_sample_fields": {
+                  "Lane": "3",
+                  "Sample_ID": "Sample_P37556_1004",
+                  "index": "ATACTGA",
+                  "index2": "CCTTCGC",
+                  "OverrideCycles": "Y151;I7N3;I7N3;Y151",
+                  "Sample_Name": "P37556_1004",
+                  "Sample_Project": "C__ShorterIndexes_25_12"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          }
+        }
+      },
+      "4": {
+        "sample_rows": {
+          "0f5a21575d6b58b586eee636701aa594": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P37432",
+            "project_name": "D.BothShorter_25_12",
+            "control": "N",
+            "description": "D__BothShorter_25_12",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "CGCCTCT",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    7,
+                    7
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P37432"
+                },
+                "per_sample_fields": {
+                  "Lane": "4",
+                  "Sample_ID": "Sample_P37432_1001",
+                  "index": "CGCCTCT",
+                  "index2": "CGTTCCT",
+                  "OverrideCycles": "Y108N43;I7N3;I7N3;Y101N50",
+                  "Sample_Name": "P37432_1001",
+                  "Sample_Project": "D__BothShorter_25_12"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "9d915a7444fd5d7fbc204afbeff7c433": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P37432",
+            "project_name": "D.BothShorter_25_12",
+            "control": "N",
+            "description": "D__BothShorter_25_12",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "CTTGCGG",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    7,
+                    7
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P37432"
+                },
+                "per_sample_fields": {
+                  "Lane": "4",
+                  "Sample_ID": "Sample_P37432_1002",
+                  "index": "CTTGCGG",
+                  "index2": "CGCCTCA",
+                  "OverrideCycles": "Y108N43;I7N3;I7N3;Y101N50",
+                  "Sample_Name": "P37432_1002",
+                  "Sample_Project": "D__BothShorter_25_12"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "40f668dfea7c5fdeae36ae39cef5d81b": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P37432",
+            "project_name": "D.BothShorter_25_12",
+            "control": "N",
+            "description": "D__BothShorter_25_12",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "TGGACGT",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    7,
+                    7
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P37432"
+                },
+                "per_sample_fields": {
+                  "Lane": "4",
+                  "Sample_ID": "Sample_P37432_1003",
+                  "index": "TGGACGT",
+                  "index2": "CAATCGA",
+                  "OverrideCycles": "Y108N43;I7N3;I7N3;Y101N50",
+                  "Sample_Name": "P37432_1003",
+                  "Sample_Project": "D__BothShorter_25_12"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          },
+          "c64fe6c27b7e57119c9cf914fde825e3": {
+            "last_modified": "2026-03-10T16:00:00.000+00:00",
+            "library_method": "Finished library (by user)",
+            "project_id": "P37432",
+            "project_name": "D.BothShorter_25_12",
+            "control": "N",
+            "description": "D__BothShorter_25_12",
+            "flowcell_id": "C36MNBVCX7",
+            "settings": {
+              "2026-03-10T16:00:00.000+00:00": {
+                "other_details": {
+                  "named_index": "ATACTGA",
+                  "operator": "John_Doe",
+                  "recipe": "151-10-10-151",
+                  "sample_ref": "Human (Homo sapiens GRCh38)",
+                  "sample_type": "ordinary",
+                  "index_length": [
+                    7,
+                    7
+                  ],
+                  "umi_config": null,
+                  "config_sources": [
+                    "bcl_convert_settings.raw_samplesheet_settings",
+                    "other_general_sample_types.standard"
+                  ],
+                  "library_method": "Finished library (by user)",
+                  "project_id": "P37432"
+                },
+                "per_sample_fields": {
+                  "Lane": "4",
+                  "Sample_ID": "Sample_P37432_1004",
+                  "index": "ATACTGA",
+                  "index2": "CCTTCGC",
+                  "OverrideCycles": "Y108N43;I7N3;I7N3;Y101N50",
+                  "Sample_Name": "P37432_1004",
+                  "Sample_Project": "D__BothShorter_25_12"
+                },
+                "raw_samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                },
+                "samplesheet_settings": {
+                  "CreateFastqForIndexReads": true,
+                  "MinimumTrimmedReadLength": 0,
+                  "MaskShortReads": 0
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "samplesheets": [
+    {
+      "lane": "1",
+      "projects": [
+        "A__StandardDemux_25_03"
+      ],
+      "settings_index": 0,
+      "sample_count": 8,
+      "filename": "Lane1_A__StandardDemux_25_03_0.csv",
+      "Header": {
+        "FileFormatVersion": "2",
+        "RunName": "C36MNBVCX7",
+        "Date": "2026-03-10"
+      },
+      "raw_samplesheet_settings": {
+        "CreateFastqForIndexReads": true,
+        "MinimumTrimmedReadLength": 0,
+        "MaskShortReads": 0
+      },
+      "BCLConvert_Data": [
+        {
+          "Lane": "1",
+          "Sample_ID": "Sample_P38454_1001",
+          "Sample_Name": "P38454_1001",
+          "index": "GAACTGAGCG",
+          "index2": "CGCTCCACGA",
+          "Sample_Project": "A__StandardDemux_25_03",
+          "OverrideCycles": "Y151;I10;I10;Y151"
+        },
+        {
+          "Lane": "1",
+          "Sample_ID": "Sample_P38454_1002",
+          "Sample_Name": "P38454_1002",
+          "index": "AGGTCAGATA",
+          "index2": "TATCTTGTAG",
+          "Sample_Project": "A__StandardDemux_25_03",
+          "OverrideCycles": "Y151;I10;I10;Y151"
+        },
+        {
+          "Lane": "1",
+          "Sample_ID": "Sample_P38454_1003",
+          "Sample_Name": "P38454_1003",
+          "index": "CGTCTCATAT",
+          "index2": "AGCTACTATA",
+          "Sample_Project": "A__StandardDemux_25_03",
+          "OverrideCycles": "Y151;I10;I10;Y151"
+        },
+        {
+          "Lane": "1",
+          "Sample_ID": "Sample_P38454_1004",
+          "Sample_Name": "P38454_1004",
+          "index": "ATTCCATAAG",
+          "index2": "CCACCAGGCA",
+          "Sample_Project": "A__StandardDemux_25_03",
+          "OverrideCycles": "Y151;I10;I10;Y151"
+        },
+        {
+          "Lane": "1",
+          "Sample_ID": "Sample_P38454_1005",
+          "Sample_Name": "P38454_1005",
+          "index": "GACGAGATTA",
+          "index2": "AGGATAATGT",
+          "Sample_Project": "A__StandardDemux_25_03",
+          "OverrideCycles": "Y151;I10;I10;Y151"
+        },
+        {
+          "Lane": "1",
+          "Sample_ID": "Sample_P38454_1006",
+          "Sample_Name": "P38454_1006",
+          "index": "AACATCGCGC",
+          "index2": "ACAAGTGGAC",
+          "Sample_Project": "A__StandardDemux_25_03",
+          "OverrideCycles": "Y151;I10;I10;Y151"
+        },
+        {
+          "Lane": "1",
+          "Sample_ID": "Sample_P38454_1007",
+          "Sample_Name": "P38454_1007",
+          "index": "CTAGTGCTCT",
+          "index2": "TACTGTTCCA",
+          "Sample_Project": "A__StandardDemux_25_03",
+          "OverrideCycles": "Y151;I10;I10;Y151"
+        },
+        {
+          "Lane": "1",
+          "Sample_ID": "Sample_P38454_1008",
+          "Sample_Name": "P38454_1008",
+          "index": "GATCAAGGCA",
+          "index2": "ATTAACAAGG",
+          "Sample_Project": "A__StandardDemux_25_03",
+          "OverrideCycles": "Y151;I10;I10;Y151"
+        }
+      ]
+    },
+    {
+      "lane": "2",
+      "projects": [
+        "B__ShorterReads_25_01"
+      ],
+      "settings_index": 0,
+      "sample_count": 4,
+      "filename": "Lane2_B__ShorterReads_25_01_0.csv",
+      "Header": {
+        "FileFormatVersion": "2",
+        "RunName": "C36MNBVCX7",
+        "Date": "2026-03-10"
+      },
+      "raw_samplesheet_settings": {
+        "CreateFastqForIndexReads": true,
+        "MinimumTrimmedReadLength": 0,
+        "MaskShortReads": 0
+      },
+      "BCLConvert_Data": [
+        {
+          "Lane": "2",
+          "Sample_ID": "Sample_P35504_101",
+          "Sample_Name": "P35504_101",
+          "index": "TAAACCCTAG",
+          "index2": "TTCCTATCAG",
+          "Sample_Project": "B__ShorterReads_25_01",
+          "OverrideCycles": "Y43N108;I10;I10;Y50N101"
+        },
+        {
+          "Lane": "2",
+          "Sample_ID": "Sample_P35504_201",
+          "Sample_Name": "P35504_201",
+          "index": "CATGCTGCTC",
+          "index2": "CGGTTTCCAC",
+          "Sample_Project": "B__ShorterReads_25_01",
+          "OverrideCycles": "Y43N108;I10;I10;Y50N101"
+        },
+        {
+          "Lane": "2",
+          "Sample_ID": "Sample_P35504_301",
+          "Sample_Name": "P35504_301",
+          "index": "GATCGCGGTA",
+          "index2": "GACGGTTCCG",
+          "Sample_Project": "B__ShorterReads_25_01",
+          "OverrideCycles": "Y43N108;I10;I10;Y50N101"
+        },
+        {
+          "Lane": "2",
+          "Sample_ID": "Sample_P35504_401",
+          "Sample_Name": "P35504_401",
+          "index": "CTAGAAATTG",
+          "index2": "CGAAAGTAAG",
+          "Sample_Project": "B__ShorterReads_25_01",
+          "OverrideCycles": "Y43N108;I10;I10;Y50N101"
+        }
+      ]
+    },
+    {
+      "lane": "3",
+      "projects": [
+        "C__ShorterIndexes_25_12"
+      ],
+      "settings_index": 0,
+      "sample_count": 4,
+      "filename": "Lane3_C__ShorterIndexes_25_12_0.csv",
+      "Header": {
+        "FileFormatVersion": "2",
+        "RunName": "C36MNBVCX7",
+        "Date": "2026-03-10"
+      },
+      "raw_samplesheet_settings": {
+        "CreateFastqForIndexReads": true,
+        "MinimumTrimmedReadLength": 0,
+        "MaskShortReads": 0
+      },
+      "BCLConvert_Data": [
+        {
+          "Lane": "3",
+          "Sample_ID": "Sample_P37556_1001",
+          "Sample_Name": "P37556_1001",
+          "index": "CGCCTCT",
+          "index2": "CGTTCCT",
+          "Sample_Project": "C__ShorterIndexes_25_12",
+          "OverrideCycles": "Y151;I7N3;I7N3;Y151"
+        },
+        {
+          "Lane": "3",
+          "Sample_ID": "Sample_P37556_1002",
+          "Sample_Name": "P37556_1002",
+          "index": "CTTGCGG",
+          "index2": "CGCCTCA",
+          "Sample_Project": "C__ShorterIndexes_25_12",
+          "OverrideCycles": "Y151;I7N3;I7N3;Y151"
+        },
+        {
+          "Lane": "3",
+          "Sample_ID": "Sample_P37556_1003",
+          "Sample_Name": "P37556_1003",
+          "index": "TGGACGT",
+          "index2": "CAATCGA",
+          "Sample_Project": "C__ShorterIndexes_25_12",
+          "OverrideCycles": "Y151;I7N3;I7N3;Y151"
+        },
+        {
+          "Lane": "3",
+          "Sample_ID": "Sample_P37556_1004",
+          "Sample_Name": "P37556_1004",
+          "index": "ATACTGA",
+          "index2": "CCTTCGC",
+          "Sample_Project": "C__ShorterIndexes_25_12",
+          "OverrideCycles": "Y151;I7N3;I7N3;Y151"
+        }
+      ]
+    },
+    {
+      "lane": "4",
+      "projects": [
+        "D__BothShorter_25_12"
+      ],
+      "settings_index": 0,
+      "sample_count": 4,
+      "filename": "Lane4_D__BothShorter_25_12_0.csv",
+      "Header": {
+        "FileFormatVersion": "2",
+        "RunName": "C36MNBVCX7",
+        "Date": "2026-03-10"
+      },
+      "raw_samplesheet_settings": {
+        "CreateFastqForIndexReads": true,
+        "MinimumTrimmedReadLength": 0,
+        "MaskShortReads": 0
+      },
+      "BCLConvert_Data": [
+        {
+          "Lane": "4",
+          "Sample_ID": "Sample_P37432_1001",
+          "Sample_Name": "P37432_1001",
+          "index": "CGCCTCT",
+          "index2": "CGTTCCT",
+          "Sample_Project": "D__BothShorter_25_12",
+          "OverrideCycles": "Y108N43;I7N3;I7N3;Y101N50"
+        },
+        {
+          "Lane": "4",
+          "Sample_ID": "Sample_P37432_1002",
+          "Sample_Name": "P37432_1002",
+          "index": "CTTGCGG",
+          "index2": "CGCCTCA",
+          "Sample_Project": "D__BothShorter_25_12",
+          "OverrideCycles": "Y108N43;I7N3;I7N3;Y101N50"
+        },
+        {
+          "Lane": "4",
+          "Sample_ID": "Sample_P37432_1003",
+          "Sample_Name": "P37432_1003",
+          "index": "TGGACGT",
+          "index2": "CAATCGA",
+          "Sample_Project": "D__BothShorter_25_12",
+          "OverrideCycles": "Y108N43;I7N3;I7N3;Y101N50"
+        },
+        {
+          "Lane": "4",
+          "Sample_ID": "Sample_P37432_1004",
+          "Sample_Name": "P37432_1004",
+          "index": "ATACTGA",
+          "index2": "CCTTCGC",
+          "Sample_Project": "D__BothShorter_25_12",
+          "OverrideCycles": "Y108N43;I7N3;I7N3;Y101N50"
+        }
+      ]
+    }
+  ],
+  "config_version": "1.1.0"
+}
