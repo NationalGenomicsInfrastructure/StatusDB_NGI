@@ -6,7 +6,10 @@ function(doc) {
         } else {
             var proj_id = doc["samplesheet_csv"][sample]["Sample_Name"].split("_")[0]
         }
-        proj_in_fc[proj_id] = true
+    // Test if it a valid project ID
+        if (/^P\d+$/.test(proj_id)) {
+            proj_in_fc[proj_id] = true
+        }
     }
     // NovaSeq X Plus has more digits in the date, will mess up the sorting if not adjusted
     name_arr = doc["name"].split("_")
