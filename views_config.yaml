@@ -302,7 +302,11 @@ databases:
   demux_configuration:
     design_docs:
       summary:
-        views: {}
+        views:
+          active_created_at:
+            reduce: false
+            scenarios:
+            - stage
   demux_sample_info:
     design_docs:
       info:
