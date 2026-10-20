@@ -809,7 +809,7 @@
                   "Sample_ID": "Sample_P37902_1001",
                   "index": "",
                   "index2": "",
-                  "OverrideCycles": "Y151;N10;N10;Y151",
+                  "OverrideCycles": "Y151;Y151",
                   "Sample_Name": "P37902_1001",
                   "Sample_Project": "A__NoIndex_25_08"
                 },
@@ -3232,7 +3232,7 @@
           "index": "",
           "index2": "",
           "Sample_Project": "A__NoIndex_25_08",
-          "OverrideCycles": "Y151;N10;N10;Y151"
+          "OverrideCycles": "Y151;Y151"
         }
       ]
     }
