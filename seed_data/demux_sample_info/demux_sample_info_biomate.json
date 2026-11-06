@@ -3219,7 +3219,7 @@
         "RunName": "A12GGASZR5",
         "Date": "2026-03-10"
       },
-      "raw_samplesheet_settings": {
+      "BCLConvert_Settings": {
         "CreateFastqForIndexReads": true,
         "MinimumTrimmedReadLength": 0,
         "MaskShortReads": 0
@@ -3250,7 +3250,7 @@
         "RunName": "A12GGASZR5",
         "Date": "2026-03-10"
       },
-      "raw_samplesheet_settings": {
+      "BCLConvert_Settings": {
         "CreateFastqForIndexReads": true,
         "MinimumTrimmedReadLength": 0,
         "MaskShortReads": 0
@@ -3344,7 +3344,7 @@
         "RunName": "A12GGASZR5",
         "Date": "2026-03-10"
       },
-      "raw_samplesheet_settings": {
+      "BCLConvert_Settings": {
         "CreateFastqForIndexReads": true,
         "MinimumTrimmedReadLength": 0,
         "MaskShortReads": 0
@@ -3401,7 +3401,7 @@
         "RunName": "A12GGASZR5",
         "Date": "2026-03-10"
       },
-      "raw_samplesheet_settings": {
+      "BCLConvert_Settings": {
         "CreateFastqForIndexReads": true,
         "MinimumTrimmedReadLength": 0,
         "MaskShortReads": 0
@@ -3468,7 +3468,7 @@
         "RunName": "A12GGASZR5",
         "Date": "2026-03-10"
       },
-      "raw_samplesheet_settings": {
+      "BCLConvert_Settings": {
         "CreateFastqForIndexReads": true,
         "MinimumTrimmedReadLength": 0,
         "MaskShortReads": 0
@@ -3588,7 +3588,7 @@
         "RunName": "A12GGASZR5",
         "Date": "2026-03-10"
       },
-      "raw_samplesheet_settings": {
+      "BCLConvert_Settings": {
         "CreateFastqForIndexReads": true,
         "MinimumTrimmedReadLength": 0,
         "MaskShortReads": 0
@@ -3647,7 +3647,7 @@
         "RunName": "A12GGASZR5",
         "Date": "2026-03-10"
       },
-      "raw_samplesheet_settings": {
+      "BCLConvert_Settings": {
         "CreateFastqForIndexReads": true,
         "MinimumTrimmedReadLength": 0,
         "MaskShortReads": 0
@@ -3741,7 +3741,7 @@
         "RunName": "A12GGASZR5",
         "Date": "2026-03-10"
       },
-      "raw_samplesheet_settings": {
+      "BCLConvert_Settings": {
         "CreateFastqForIndexReads": true,
         "MinimumTrimmedReadLength": 0,
         "MaskShortReads": 0
