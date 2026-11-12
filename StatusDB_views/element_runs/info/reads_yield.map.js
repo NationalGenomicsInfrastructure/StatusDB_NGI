@@ -15,8 +15,8 @@ function (doc) {
         if("RunStats" in aviti_run_stats){
           if("TotalYield" in aviti_run_stats["RunStats"])
             data["total_yield"] = aviti_run_stats["RunStats"]["TotalYield"];
-          if("PolonyCount" in aviti_run_stats["RunStats"])
-            data["total_clusters"] = aviti_run_stats["RunStats"]["PolonyCount"];
+          if("PFCount" in aviti_run_stats["RunStats"])
+            data["total_clusters"] = aviti_run_stats["RunStats"]["PFCount"];
         }
         if("LaneStats" in aviti_run_stats){
           var onelane=null;
@@ -25,7 +25,7 @@ function (doc) {
             onelane=aviti_run_stats["LaneStats"][lane];
             laneobj['lane']=onelane['Lane'];
             laneobj['total_yield']=onelane['TotalYield'];
-            laneobj['total_clusters']=onelane['PolonyCount'];
+            laneobj['total_clusters']=onelane['PFCount'];
             
             data['lanes'].push(laneobj);
           }
