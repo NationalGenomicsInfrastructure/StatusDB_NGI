@@ -1325,3 +1325,19 @@ databases:
             reduce: false
             scenarios:
             - stage
+  yggdrasil_ops:
+    design_docs:
+      demux:
+        views:
+          step_status_by_flowcell:
+            reduce: false
+            scenarios:
+            - stage
+  yggdrasil_plans:
+    design_docs:
+      demux:
+        views:
+          run_request_by_flowcell:
+            reduce: false
+            scenarios:
+            - stage
