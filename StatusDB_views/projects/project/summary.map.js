@@ -184,6 +184,9 @@ summary["passed_samples"]=0;
  if(doc.hasOwnProperty("invoice_spec_generated")){
   summary["invoice_spec_generated"] = doc["invoice_spec_generated"];
  }
+ if (doc.hasOwnProperty("samples_with_errors")){
+  summary["samples_with_errors"] = doc["samples_with_errors"];
+ }
  if ((summary["source"] == "lims") && (!("close_date" in doc))){
    emit(["open", doc["project_id"]], summary);
  } else {

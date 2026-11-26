@@ -206,6 +206,9 @@ function(doc) {
   }
 
   summary["status"] = doc["status_fields"]["status"];
+  if (doc.hasOwnProperty("samples_with_errors")){
+    summary["samples_with_errors"] = doc["samples_with_errors"];
+  }
 
   if ((summary["source"] == "lims") && (!("close_date" in doc))){
     emit(["open", doc["project_id"]], summary);
